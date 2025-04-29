@@ -12,8 +12,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Integrações de sistemas** eficientes e escaláveis  
 - **Boas práticas de código** (SOLID, Clean Architecture)  
 
-Busco criar soluções que resolvam problemas reais com tecnologia inovadora.  
-
 ---
 
 ### 🛠️ Habilidades Técnicas  
