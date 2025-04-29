@@ -11,7 +11,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Microsserviços** (Spring Boot, Python)  
 - **Integrações de sistemas** eficientes e escaláveis  
 - **Boas práticas de código** (SOLID, Clean Architecture)  
-- **Mentoria** de devs iniciantes  
 
 Busco criar soluções que resolvam problemas reais com tecnologia inovadora.  
 
