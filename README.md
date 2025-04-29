@@ -33,43 +33,6 @@
 
 ---
 
-### 🏅 Licenças e Certificados
-
-- **Java COMPLETO: Do Zero ao Profissional + Projetos!**  
-  - Emitido por: Udemy  
-  - Data de emissão: Ago de 2024  
-  - Código da credencial: UC-7e947cdf-ef03-4078-af0d-2c97e50cc2fa  
-
-- **Introdução à IoT**  
-  - Emitido por: Cisco Networking Academy  
-  - Data de emissão: Jun de 2023  
-
-- **Desenvolvimento Android e IOS com Flutter**  
-  - Emitido por: Udemy  
-  - Data de emissão: Abr de 2022  
-
-- **Database Foundations**  
-  - Emitido por: Oracle  
-  - Data de emissão: Mar de 2022  
-
----
-
-### 💻 Experiência
-
-✅ Experiência sólida em desenvolvimento e manutenção de softwares.  
-✅ Habilidade em trabalhar com equipes multidisciplinares e metodologias ágeis.  
-✅ Foco em qualidade de código, performance e escalabilidade.
-
----
-
-### 🌟 Destaques do Meu Trabalho
-
-- **Microsserviços:** Desenvolvimento de APIs RESTful escaláveis e seguras.  
-- **Integrações:** Conexão de sistemas complexos com soluções robustas.  
-- **Boas Práticas:** Advocacia por clean code, testes automatizados e CI/CD.
-
----
-
 ### 📈 Linguagens Mais Utilizadas
 
 <div align="center">
