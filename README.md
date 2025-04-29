@@ -39,7 +39,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 ###  Projetos em Destaque  
 
 #### 1. **CorrijAI** (Full Stack)  
-**Tecnologias:** Flutter • Spring Boot • Python • OpenAI API  
+**Tecnologias:** Flutter • Python • OpenAI API  
 - **Frontend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-frontend)  
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
