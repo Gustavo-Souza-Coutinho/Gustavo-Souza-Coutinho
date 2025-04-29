@@ -4,6 +4,10 @@
 
 <h1 align="center"> Desenvolvedor Full Stack </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustavo-Souza-Coutinho&label=PROFILE+VIEWS&color=F7B801&style=for-the-badge" alt="Profile views counter"/>
+</div>
+
 ---
 
 ### 🧑‍💻 Sobre Mim  
@@ -11,6 +15,9 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Microsserviços** (Spring Boot, Python)  
 - **Integrações de sistemas** eficientes e escaláveis  
 - **Boas práticas de código** (SOLID, Clean Architecture)  
+- **Mentoria** de devs iniciantes  
+
+Busco criar soluções que resolvam problemas reais com tecnologia inovadora.  
 
 ---
 
@@ -24,6 +31,12 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 **DevOps & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+**Testing & APIs:**  
+- Mockito  
+- `unittest.mock`  
+- Docker (+ Docker Compose)  
+- HTTP/HTTPS, REST, GraphQL, WebSockets  
+- Mockoon, Postman Mock Server  
 
 ---
 
@@ -34,6 +47,9 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Frontend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-frontend)  
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
+
+#### 2. **Outros Projetos**  
+🔹 **Em breve mais novidades!** *(Adicione outros projetos conforme for desenvolvendo)*  
 
 ---
 
@@ -62,10 +78,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavo-Souza-Coutinho&label=PROFILE+VIEWS&color=F7B801&style=for-the-badge" alt="Profile views counter"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=100&section=footer&animation=fadeIn" alt="Footer"/>
