@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Desenvolvedor Full Stack | Java | C | C++ | C# | Python | Flutter</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&width=600&lines=Especialista+em+Microsserviços+%26+Integrações;3+anos+de+experiência+em+desenvolvimento;Advogado+de+Boas+Práticas;Evolução+Contínua+%26+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&width=600&lines=Especialista+em+Microsserviços+%26+Integrações;3+anos+de+experiência+em+desenvolvimento;Advogado+de+Boas+Práticas;Evolução+Contínua+%26+Inovação" alt="Typing SVG"/>
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ### 🔥 Principais Tecnologias Utilizadas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flutter,rest,git,c,cpp,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter,git,c,cpp,python" alt="Tech Stack"/>
 </div>
 
 ---
