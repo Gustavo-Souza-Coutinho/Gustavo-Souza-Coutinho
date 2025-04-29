@@ -10,12 +10,7 @@
 
 ---
 
-### 🎯 Objetivo  
-Busco oportunidades para desenvolver sistemas escaláveis em cloud (AWS/GCP), combinando microsserviços e boas práticas de código.  
-
----
-
-### 🧑‍💻 Sobre Mim  
+###  Sobre Mim  
 Sou especialista em desenvolvimento de software com **3 anos de experiência**, focado em:  
 - **Microsserviços** (Spring Boot, Python)  
 - **Integrações de sistemas** eficientes e escaláveis  
@@ -23,7 +18,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ---
 
-### 🛠️ Habilidades Técnicas  
+###  Habilidades Técnicas  
 
 **Backend:**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
@@ -52,7 +47,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ---
 
-### 🚀 Projetos em Destaque  
+###  Projetos em Destaque  
 
 #### 1. **CorrijAI** (Full Stack)  
 **Tecnologias:** Flutter • Spring Boot • Python • OpenAI API  
@@ -63,7 +58,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ---
 
-### 📊 Estatísticas do GitHub  
+###  Estatísticas do GitHub  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" style="margin-bottom: 10px;"/>
@@ -75,7 +70,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ---
 
-### 📫 Vamos Conversar!  
+###  Chama eu  
 **Disponível para colaborações e oportunidades inovadoras.**  
 
 <div align="center">
