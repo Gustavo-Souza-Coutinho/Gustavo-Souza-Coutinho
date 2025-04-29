@@ -23,13 +23,11 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 **Backend:**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/XAMPP-FF4F00?style=flat&logo=xampp&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
-![Bash/Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 
 **Frontend:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
@@ -37,19 +35,15 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
 **DevOps & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Bash/Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 
 **Testing & APIs:**  
 ![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white)  
-![unittest.mock](https://img.shields.io/badge/unittest.mock-3776AB?style=flat&logo=python&logoColor=white)  
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=flat&logo=protocol&logoColor=white)  
-![REST](https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
-![WebSockets](https://img.shields.io/badge/WebSockets-00C853?style=flat&logo=websocket&logoColor=white)  
 ![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white)  
 ![Postman Mock Server](https://img.shields.io/badge/Postman_Mock_Server-FF6C37?style=flat&logo=postman&logoColor=white)  
 
