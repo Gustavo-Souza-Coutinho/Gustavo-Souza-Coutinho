@@ -39,7 +39,6 @@ Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenv
 
 ### 📬 Vamos Colaborar!
 
-💼 Explore meu trabalho no GitHub: [https://github.com/Gustavo-Souza-Coutinho](https://github.com/Gustavo-Souza-Coutinho)  
 📧 Entre em contato: gustavo.couty@hotmail.com  
 
 <div align="center">
