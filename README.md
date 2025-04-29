@@ -56,16 +56,3 @@ pie showData
     "Microservices" : 20
     "Flutter" : 15
     "Python" : 5
-📌 Featured Projects
-🔗 Project 1 - Microservices Architecture
-Java Spring Docker
-
-High-performance microservices system with CI/CD pipeline
-
-🔗 Project 2 - Flutter Application
-Flutter Firebase
-
-Cross-platform mobile app with 10k+ downloads
-
-📬 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/gustavo-coutinho-35b7b8239/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gustavo.couty@hotmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Gustavo-Souza-Coutinho"> <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Gustavo-Souza-Coutinho&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/> </div> ```
