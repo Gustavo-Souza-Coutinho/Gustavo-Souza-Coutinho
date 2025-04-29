@@ -16,51 +16,6 @@
 
 ---
 
-### 💻 Tecnologias e Competências
-
-#### Linguagens
-- **JavaScript/TypeScript**: Dominar assincronismo (Promises, async/await), ES6+.
-- **Python**: Sintaxe limpa, foco em Django/Flask para back-end ou automação.
-- **Java**: Spring Boot, JVM, orientação a objetos sólida.
-- **C#**: .NET Core, Entity Framework, integração com Azure.
-- **PHP**: Laravel ou Symfony, moderno (PHP 8+), evitar código espaguete.
-
-#### Frameworks Front-End
-- **React**: Componentes, hooks (useState, useEffect), Next.js para SSR.
-- **Vue**: Vue 3, Composition API, Vuex/Pinia para estado.
-- **Angular**: TypeScript, RxJS, injeção de dependências.
-
-#### Back-End & APIs
-- **Node.js**: Express/NestJS, middlewares, JWT para autenticação.
-- **Django/Flask**: Python puro (Flask) ou baterias inclusas (Django).
-- **Spring Boot**: Convention over configuration, microserviços.
-- **Ruby on Rails**: MVC, convenções, agilidade (menos hype hoje).
-
-#### Banco de Dados
-- **SQL (PostgreSQL/MySQL)**: Schemas, JOINs, índices, otimização.
-- **NoSQL (MongoDB)**: JSON-like, flexível, sem esquema rígido.
-- **Redis**: Cache, sessões, operações em memória.
-
-#### DevOps & Cloud
-- **Git**: Commits atômicos, branch strategy (Git Flow), rebase.
-- **Docker**: Containers, imagens leves, Docker Compose.
-- **AWS/Azure**: EC2, S3, Lambda (serverless), básico de IAM.
-- **CI/CD**: GitHub Actions, Jenkins, pipelines automatizados.
-
-#### Testes
-- **Jest/Mocha**: Testes unitários em JS/TS, mocking.
-- **PyTest**: Testes em Python, fixtures, parametrização.
-- **Selenium/Cypress**: E2E para front-end, simulação de usuário.
-
-#### Boas Práticas
-- **Clean Code**: Nomes claros, funções pequenas, evitar repetição (DRY).
-- **SOLID**: Princípios para OOP (ex: inversão de dependências).
-- **Design Patterns**: Singleton, Factory, Observer, Strategy.
-- **REST/GraphQL**: APIs RESTful (verbos HTTP) ou GraphQL (flexibilidade).
-- **Segurança**: SQL injection, XSS, CORS, JWT validation.
-
----
-
 ### 🔥 Principais Tecnologias Utilizadas
 
 <div align="center">
