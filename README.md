@@ -15,9 +15,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Microsserviços** (Spring Boot, Python)  
 - **Integrações de sistemas** eficientes e escaláveis  
 - **Boas práticas de código** (SOLID, Clean Architecture)  
-- **Mentoria** de devs iniciantes  
-
-Busco criar soluções que resolvam problemas reais com tecnologia inovadora.  
 
 ---
 
@@ -47,9 +44,6 @@ Busco criar soluções que resolvam problemas reais com tecnologia inovadora.
 - **Frontend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-frontend)  
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
-
-#### 2. **Outros Projetos**  
-🔹 **Em breve mais novidades!** *(Adicione outros projetos conforme for desenvolvendo)*  
 
 ---
 
