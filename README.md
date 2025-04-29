@@ -29,11 +29,14 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 **Testing & APIs:**  
-- Mockito  
-- `unittest.mock`  
-- Docker (+ Docker Compose)  
-- HTTP/HTTPS, REST, GraphQL, WebSockets  
-- Mockoon, Postman Mock Server  
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white)
+![unittest.mock](https://img.shields.io/badge/unittest.mock-3776AB?style=flat&logo=python&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=flat&logo=protocol&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-00C853?style=flat&logo=websocket&logoColor=white)
+![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white)
+![Postman Mock Server](https://img.shields.io/badge/Postman_Mock_Server-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
