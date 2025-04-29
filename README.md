@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-💡 Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenvolvimento de software. Especialista em microsserviços e integrações de sistemas, busco sempre disseminar boas práticas e evoluir continuamente. Meu objetivo é criar soluções que impactem positivamente o mundo.
+Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenvolvimento de software. Especialista em microsserviços e integrações de sistemas, busco sempre disseminar boas práticas e evoluir continuamente. Meu objetivo é criar soluções que impactem positivamente o mundo.
 
 ---
 
