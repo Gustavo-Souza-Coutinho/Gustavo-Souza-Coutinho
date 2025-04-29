@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Gustavo de Souza Coutinho! 👋  
 
-<!--
-**Gustavo-Souza-Coutinho/Gustavo-Souza-Coutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim  
+- 🚀 Desenvolvedor | Estudante de [sua área]  
+- 🌍 De [sua cidade/país]  
+- 📚 Aprendendo: [tecnologias que está estudando]  
+- 💼 LinkedIn: [seu link]  
 
-Here are some ideas to get you started:
+### Minhas Estatísticas no GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens Mais Usadas  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Souza-Coutinho&layout=compact)  
+
+### Contato  
+📫 Email: seuemail@exemplo.com  
+🔗 LinkedIn: [Perfil LinkedIn](https://linkedin.com/in/seu-perfil)  
