@@ -20,26 +20,32 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ### 🛠️ Habilidades Técnicas  
 
-<div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.simpleicons.org/xampp/FF4F00">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/24292F">
-  <img align="center" alt="DevC++" height="40" width="40" style="border-radius: 10px;" src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+**Backend:**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/XAMPP-FF4F00?style=flat&logo=xampp&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+**Frontend:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+
+**DevOps & Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+**Testing & APIs:**  
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white)  
+![unittest.mock](https://img.shields.io/badge/unittest.mock-3776AB?style=flat&logo=python&logoColor=white)  
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=flat&logo=protocol&logoColor=white)  
+![REST](https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![WebSockets](https://img.shields.io/badge/WebSockets-00C853?style=flat&logo=websocket&logoColor=white)  
+![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white)  
+![Postman Mock Server](https://img.shields.io/badge/Postman_Mock_Server-FF6C37?style=flat&logo=postman&logoColor=white)  
 
 ---
 
