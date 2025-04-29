@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Gustavo%20Coutinho&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Gustavo%20Coutinho&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </div>
 
 <h1 align="center"> Desenvolvedor Full Stack </h1>
@@ -46,16 +46,12 @@ Busco criar soluções que resolvam problemas reais com tecnologia inovadora.
 ### 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Souza-Coutinho&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" style="margin-bottom: 10px;"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Souza-Coutinho&theme=radical" alt="GitHub Streak Stats" style="margin-bottom: 10px;"/>
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Gustavo-Souza-Coutinho&theme=onedark&margin-w=15" alt="GitHub Trophies"/>
 </div>
-
----
-
-### 🌱 Atualmente Aprendendo  
-- Arquitetura de sistemas escaláveis (Kubernetes, Serverless)  
-- Otimização de desempenho em microsserviços  
 
 ---
 
@@ -75,5 +71,8 @@ Busco criar soluções que resolvam problemas reais com tecnologia inovadora.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gustavo-Souza-Coutinho&label=PROFILE+VIEWS&color=F7B801&style=for-the-badge" alt="Profile views counter"/>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
