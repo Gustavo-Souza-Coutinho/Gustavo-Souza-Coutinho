@@ -10,6 +10,11 @@
 
 ---
 
+### 🎯 Objetivo  
+Busco oportunidades para desenvolver sistemas escaláveis em cloud (AWS/GCP), combinando microsserviços e boas práticas de código.  
+
+---
+
 ### 🧑‍💻 Sobre Mim  
 Sou especialista em desenvolvimento de software com **3 anos de experiência**, focado em:  
 - **Microsserviços** (Spring Boot, Python)  
@@ -31,21 +36,19 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 **Frontend:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat&logo=html5&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
 
 **DevOps & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Bash/Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
 
 **Testing & APIs:**  
 ![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
 ![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white)  
-![Postman Mock Server](https://img.shields.io/badge/Postman_Mock_Server-FF6C37?style=flat&logo=postman&logoColor=white)  
 
 ---
 
@@ -56,6 +59,7 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Frontend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-frontend)  
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
+**Destaque:** Golang foi usado para otimizar APIs high-load no backend.  
 
 ---
 
