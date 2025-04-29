@@ -54,7 +54,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Frontend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-frontend)  
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
-**Destaque:** Golang foi usado para otimizar APIs high-load no backend.  
 
 ---
 
