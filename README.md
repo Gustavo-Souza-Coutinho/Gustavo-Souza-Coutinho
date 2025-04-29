@@ -3,7 +3,7 @@
 ### Sobre Mim  
 - 🚀 Desenvolvedor | Junior 
 - 🌍 De Ourinhos
-- 💼 LinkedIn: [[seu link]  ](https://www.linkedin.com/in/gustavo-coutinho-35b7b8239/)
+- 💼 LinkedIn: [[Zoia aqui]  ](https://www.linkedin.com/in/gustavo-coutinho-35b7b8239/)
 
 ### Minhas Estatísticas no GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical)  
