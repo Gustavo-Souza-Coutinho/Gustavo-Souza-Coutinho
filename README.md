@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Gustavo%20Coutinho&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </div>
 
-<h1 align="center">🚀 Desenvolvedor Full Stack | Java | C | C++ | C# | Python | Flutter</h1>
+<h1 align="center">🚀 Desenvolvedor Full Stack </h1>
 
 ---
 
