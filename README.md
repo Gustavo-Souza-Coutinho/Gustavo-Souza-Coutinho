@@ -35,9 +35,6 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 - **Backend**: [Repositório](https://github.com/Gustavo-Souza-Coutinho/CorrijAI-backend)  
 **Descrição**: Plataforma que utiliza IA para corrigir textos acadêmicos, integrando processamento de linguagem natural com interface responsiva.  
 
-#### 2. **Outros Projetos**  
-🔹 **Em breve mais novidades!** *(Adicione outros projetos conforme for desenvolvendo)*  
-
 ---
 
 ### 📊 Estatísticas do GitHub  
