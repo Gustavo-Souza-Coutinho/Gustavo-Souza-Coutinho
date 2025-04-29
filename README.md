@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Gustavo%20Coutinho&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </div>
 
-<h1 align="center">🚀 Desenvolvedor Full Stack </h1>
+<h1 align="center"> Desenvolvedor Full Stack </h1>
 
 ---
 
@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenv
 
 ---
 
-### 🔥 Principais Tecnologias Utilizadas
+###  Principais Tecnologias Utilizadas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,flutter,git,c,cpp,python" alt="Tech Stack"/>
@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenv
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenv
 
 ---
 
-### 📈 Linguagens Mais Utilizadas
+###  Linguagens Mais Utilizadas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Souza-Coutinho&layout=compact&theme=radical" alt="Top Languages"/>
@@ -37,9 +37,9 @@ Sou apaixonado por tecnologia e inovação, com 3 anos de experiência em desenv
 
 ---
 
-### 📬 Vamos Colaborar!
+###  Vamos Colaborar!
 
-📧 Entre em contato: gustavo.couty@hotmail.com  
+ Entre em contato: gustavo.couty@hotmail.com  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-coutinho-35b7b8239/" target="_blank">
