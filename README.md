@@ -13,4 +13,4 @@
 
 ### Contato  
 📫 Email: gustavo.couty@hotmail.com
-🔗 LinkedIn: [Perfil LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-coutinho-35b7b8239))  
+🔗 LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-coutinho-35b7b8239
