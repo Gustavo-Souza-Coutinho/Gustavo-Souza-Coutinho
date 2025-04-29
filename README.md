@@ -24,6 +24,15 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Souza-Coutinho&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Souza-Coutinho&theme=radical" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
 ### 🏅 Licenças e Certificados
 
 - **Java COMPLETO: Do Zero ao Profissional + Projetos!**  
@@ -58,6 +67,14 @@
 - **Microsserviços:** Desenvolvimento de APIs RESTful escaláveis e seguras.  
 - **Integrações:** Conexão de sistemas complexos com soluções robustas.  
 - **Boas Práticas:** Advocacia por clean code, testes automatizados e CI/CD.
+
+---
+
+### 📈 Linguagens Mais Utilizadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Souza-Coutinho&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
