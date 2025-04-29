@@ -18,32 +18,21 @@ Sou especialista em desenvolvimento de software com **3 anos de experiência**, 
 
 ---
 
-###  Habilidades Técnicas  
+### Habilidades Técnicas  
 
-**Backend:**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+<div align="center">
 
-**Frontend:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+| **Backend** | **Frontend** | **DevOps & Tools** | **Testing & APIs** |
+|-------------|--------------|---------------------|---------------------|
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | ![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | | |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) | | | |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | | | |
+| ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | | | |
 
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-
-**Testing & APIs:**  
-![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
-![Mockoon](https://img.shields.io/badge/Mockoon-FF5722?style=flat&logo=mockoon&logoColor=white)  
+</div>
 
 ---
 
